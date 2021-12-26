@@ -1,0 +1,4 @@
+com\niit\products\controller\ProductControllerTest.class
+com\niit\products\repository\ProductRepositoryTest.class
+com\niit\products\ProductsApplicationTests.class
+com\niit\products\service\ProductServiceTest.class

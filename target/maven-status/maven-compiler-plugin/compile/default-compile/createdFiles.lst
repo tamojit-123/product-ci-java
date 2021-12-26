@@ -1,0 +1,9 @@
+com\niit\products\controller\ProductController.class
+com\niit\products\ProductsApplication.class
+com\niit\products\service\ProductServiceImpl.class
+com\niit\products\repository\ProductRepository.class
+com\niit\products\model\ProductDetails.class
+com\niit\products\service\ProductService.class
+com\niit\products\exception\ProductNotFoundException.class
+com\niit\products\model\Product.class
+com\niit\products\exception\ProductAlreadyExistsException.class
